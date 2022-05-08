@@ -1,0 +1,20 @@
+$warning : rgb(111, 197, 231);
+
+
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+a{
+    text-decoration: none;
+ }
+ .align-text-top, .navbar-brand{
+    filter: invert(100%);
+    
+ }
+
+ .navbar-brand{
+   height: 65px;
+ }
+
